@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="autod" baseClass="xPDOObject" platform="mysql" defaultEngine="InnoDB" phpdoc-package="autod"
+       version="1.1">
+
+</model>
